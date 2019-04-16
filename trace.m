@@ -21,5 +21,4 @@ for t=0:1:300
     else
         imwrite(A,map,filename,'gif','WriteMode','append','DelayTime',0.001);
     end
-
 end
