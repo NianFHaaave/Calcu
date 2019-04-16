@@ -17,9 +17,9 @@ for j=1:nPsi
     end
     hold on
 end
-axis([-2*a,2*a,-2*a,2*a])%вВ╤тс╕м╪пн╣даВоъ
+axis([-2*a,2*a,-2*a,2*a])%Д╫°Е╞╧Е╨■Е⌡╬Е╫╒Г └Ф╣│Г╨©
 ylabel('x')
 xlabel('y')
-% xx=linspace(-1,1,40);%вВ╤тс╕м╪пн
+% xx=linspace(-1,1,40);%Д╫°Е╞╧Е╨■Е⌡╬Е╫╒
 % yy=sqrt(1-xx.^2+2*xx./tan(xx/co));
 % plot(yy,xx,'k',-yy,xx,'k')
