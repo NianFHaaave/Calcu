@@ -1,4 +1,5 @@
 # Calcu
-NianF's recent calculation
 
-Hi guys, this is NianF kun, a Chinese student. This part almost consists of matlab documents and little part of python documents of calculation in daily working and studying.
+After studing computing physics, I thought I'm really good at matlab and algorithm many years ago. As a matter of fact, you know, freshman always did what makes professional people laughing.
+
+This part almost consisted of matlab documents four years ago.
